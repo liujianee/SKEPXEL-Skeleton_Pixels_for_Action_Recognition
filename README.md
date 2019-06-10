@@ -1,11 +1,13 @@
 # Skepxels: Spatio-temporal Image Representation of Human Skeleton Joints for Action Recognition
 This repository contains the implementation of ["Skepxels: Spatio-temporal Image Representation of Human Skeleton Joints for Action Recognition"](https://arxiv.org/abs/1711.05941)
 
+<!---
 <img src="https://github.com/liujianee/Skepxel_GitHub/blob/master/assets/skeleton_pixel.png" width="50%">
 
-<img src="https://github.com/liujianee/Skepxel_GitHub/blob/master/assets/image_generation.png" width="50%">
 
 <img src="https://github.com/liujianee/Skepxel_GitHub/blob/master/assets/target_images.png" width="50%">
+-->
+<img src="https://github.com/liujianee/Skepxel_GitHub/blob/master/assets/image_generation.png" width="50%">
 
 ## Environment
 - Python 2.7
